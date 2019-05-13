@@ -1,5 +1,5 @@
 # Spectrangle Game
-By Corjan van den Brink
+By Corjan van den Brink and Varun Sudhakar
 
 Initiated 16/01/19
 
